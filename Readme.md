@@ -48,11 +48,3 @@ Para rodar este projeto, você precisa ter instalado:
 2.  **Servidor MySQL** rodando localmente ou na nuvem.
 3.  Credenciais de API da **Omie** (`APP_KEY` e `APP_SECRET`).
 
----
-
-## 📥 Instalação e Configuração
-
-### 1. Clonar o Repositório
-```bash
-git clone [https://github.com/SEU-USUARIO/SQUAD-09-EASY.git](https://github.com/SEU-USUARIO/SQUAD-09-EASY.git)
-cd SQUAD-09-EASY
